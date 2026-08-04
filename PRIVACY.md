@@ -1,10 +1,10 @@
-FocusProof Beta Chrome Extension Privacy Policy
+FocusProof Chrome Extension Privacy Policy
 
 Last updated: 16 July 2026
 
 ## Purpose
 
-FocusProof Beta is a Google Chrome companion extension for the FocusProof macOS
+FocusProof is a Google Chrome companion extension for the FocusProof macOS
 study tracker. Its single purpose is to connect Chrome to the FocusProof Mac app
 and provide the current website domain during an active study session when
 browser tracking is enabled.
@@ -21,7 +21,7 @@ When there is no active study session, a readiness check sends only connection,
 version and browser-identity information. The readiness check does not access a
 tab or create a study activity record.
 
-FocusProof Beta does not collect full URLs, URL paths, query strings, searches,
+FocusProof does not collect full URLs, URL paths, query strings, searches,
 page titles, page contents, typed text, form entries, keystrokes, screenshots,
 clipboard contents, local files, or Incognito browsing activity.
 
@@ -55,7 +55,7 @@ user deletes the relevant session or resets FocusProof data.
 
 ## Permissions
 
-FocusProof Beta uses:
+FocusProof uses:
 
 - **Native messaging** to connect to the local FocusProof Mac helper.
 - **Tabs** to read the active tab URL only during an authorised study session
@@ -73,13 +73,13 @@ sessions, or reset all FocusProof data.
 
 ## Diagnostics
 
-Connection and version status are processed locally. FocusProof Beta does not
+Connection and version status are processed locally. FocusProof does not
 automatically transmit diagnostic or activity data to an external service.
 
-## Beta status and contact
+## Contact
 
-FocusProof Beta is available only to approved closed-beta testers. Questions may
-be submitted through the FocusProof downloads repository issue tracker:
+Questions may be submitted through the FocusProof downloads repository issue
+tracker:
 
 https://github.com/kevinantoun1/focusproof-downloads/issues
 
