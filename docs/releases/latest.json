@@ -1,18 +1,21 @@
 {
   "product": "FocusProof",
-  "version": "1.0.0",
-  "build": 5,
-  "releaseDate": "2026-08-04",
+  "version": "1.0.1",
+  "build": 6,
+  "releaseDate": "2026-08-06",
   "minimumMacOS": "15.0",
   "dmg": {
-    "url": "https://kevinantoun1.github.io/focusproof-downloads/downloads/FocusProof-1.0.0.dmg",
-    "sha256": "524db6fa65661565582bf4536b25673501dcb9bee05620716d24595d139e5408"
+    "url": "https://kevinantoun1.github.io/focusproof-downloads/downloads/FocusProof-1.0.1.dmg",
+    "sha256": "17b57cdfdf3f1ace0c771ddd844421b9b1bb98b0d84e33b8cd5560e6b8719679"
   },
   "sparkleZip": {
-    "url": "https://kevinantoun1.github.io/focusproof-downloads/updates/FocusProof-1.0.0.zip",
-    "sha256": "816507ff2a02b99fc373016305cec81f9e86dcdce6ece1a8623fd8f7872aced3"
+    "url": "https://kevinantoun1.github.io/focusproof-downloads/updates/FocusProof-1.0.1.zip",
+    "sha256": "7821facf3cc538dfbe86bc2314fc384318764258841bb3dfe99a0ce5cf1b1c02"
   },
   "appcast": "https://kevinantoun1.github.io/focusproof-downloads/updates/appcast.xml",
+  "releaseNotes": "https://kevinantoun1.github.io/focusproof-downloads/updates/FocusProof-1.0.1.md",
+  "sourceCommit": "ee5215defbc2f65e813d0cbf624afe086e085853",
+  "sourceTag": "v1.0.1",
   "notarized": false,
   "developerIdSigned": false,
   "distribution": "independent"

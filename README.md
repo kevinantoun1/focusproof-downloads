@@ -13,13 +13,13 @@
 
 A private, session-scoped study recorder for macOS.
 
-[![Release](https://img.shields.io/badge/release-1.0.0-2f6f4e?style=flat-square)](https://www.focusproof.app/changelog)
+[![Release](https://img.shields.io/badge/release-1.0.1-2f6f4e?style=flat-square)](https://www.focusproof.app/changelog)
 [![Build](https://img.shields.io/badge/build-5-555555?style=flat-square)](https://www.focusproof.app/changelog)
 [![macOS](https://img.shields.io/badge/macOS-15%2B-111111?style=flat-square&logo=apple)](https://www.focusproof.app/download)
 [![Distribution](https://img.shields.io/badge/distribution-independent-b36b16?style=flat-square)](#independent-distribution)
 
 [Website](https://www.focusproof.app) ·
-[Download](https://kevinantoun1.github.io/focusproof-downloads/downloads/FocusProof-1.0.0.dmg) ·
+[Download](https://kevinantoun1.github.io/focusproof-downloads/downloads/FocusProof-1.0.1.dmg) ·
 [Chrome Companion](https://chromewebstore.google.com/detail/lmoghdnegapmpplnilnppdoanmmlnhpc) ·
 [Privacy](https://www.focusproof.app/privacy) ·
 [Support](https://www.focusproof.app/support)
@@ -40,7 +40,7 @@ FocusProof is not a website blocker, AI coach, all-day activity monitor or insti
 
 | | |
 |---|---|
-| **Version** | FocusProof 1.0.0 |
+| **Version** | FocusProof 1.0.1 |
 | **Build** | 5 |
 | **Channel** | Stable |
 | **Requires** | macOS 15 or later |
@@ -51,7 +51,7 @@ FocusProof is not a website blocker, AI coach, all-day activity monitor or insti
 
 ### Download FocusProof
 
-[**Download FocusProof 1.0.0 for macOS**](https://kevinantoun1.github.io/focusproof-downloads/downloads/FocusProof-1.0.0.dmg)
+[**Download FocusProof 1.0.1 for macOS**](https://kevinantoun1.github.io/focusproof-downloads/downloads/FocusProof-1.0.1.dmg)
 
 The published release is distributed as a macOS disk image.
 
@@ -154,4 +154,4 @@ Published checksums are available here:
 On macOS, calculate the SHA-256 checksum of a downloaded DMG with:
 
 ```bash
-shasum -a 256 ~/Downloads/FocusProof-1.0.0.dmg
+shasum -a 256 ~/Downloads/FocusProof-1.0.1.dmg

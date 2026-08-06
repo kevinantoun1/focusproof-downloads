@@ -3,8 +3,22 @@
     <channel>
         <title>FocusProof</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Wed, 05 Aug 2026 12:03:01 -0400</pubDate>
+            <link>https://kevinantoun1.github.io/focusproof-downloads/</link>
+            <sparkle:fullReleaseNotesLink>https://kevinantoun1.github.io/focusproof-downloads/changelog/</sparkle:fullReleaseNotesLink>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://kevinantoun1.github.io/focusproof-downloads/updates/FocusProof-1.0.1.md</sparkle:releaseNotesLink>
+            <enclosure url="https://kevinantoun1.github.io/focusproof-downloads/updates/FocusProof-1.0.1.zip" length="5709892" type="application/octet-stream" sparkle:edSignature="xP8zypy8xjNjSdBVQ/MXUqeL23MJmCElO2G+9W41M1UBXvfu6oxrMhuxuxcHj/AAjanyctpNlv3QWpR+eiM8Dg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://kevinantoun1.github.io/focusproof-downloads/updates/FocusProof6-5.delta" sparkle:deltaFrom="5" length="407526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2i09r9ict4Gvbp+yPLFMH7EadkNfPgEJ42vR/ptb1HPGZAjYf0XzKC6NBHLm0JRGLxd2kNOFYKip7Ie/IEZNCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
-            <pubDate>Tue, 04 Aug 2026 17:49:01 +1000</pubDate>
+            <pubDate>Wed, 05 Aug 2026 12:03:01 -0400</pubDate>
             <link>https://kevinantoun1.github.io/focusproof-downloads/</link>
             <sparkle:fullReleaseNotesLink>https://kevinantoun1.github.io/focusproof-downloads/changelog/</sparkle:fullReleaseNotesLink>
             <sparkle:version>5</sparkle:version>
